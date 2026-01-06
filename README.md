@@ -1,4 +1,4 @@
-# Async-Learning-Task-Cellular-Automata
+# Cellular-Automata
 
 This code displays the step by step formation of an elementary cellular automata in a gif file.
 
